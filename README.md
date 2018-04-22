@@ -1,2 +1,2 @@
-# humanrobotcollaboration
-Human robot colloboration
+# hrc
+Human robot colloboration for task completion using ROS Moveit !
